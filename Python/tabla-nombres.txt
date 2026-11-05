@@ -1,0 +1,3 @@
+Nombre	Apellidos	Edad	mascotas
+Juan	morgade Díaz	2	Pinto
+Adriana	Ramirez Hernández	5	Piti
